@@ -2,9 +2,9 @@
 - 👀 I’m interested in mobile programming and blocchain
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on group of 5 persons
-- 📫 How to reach me ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+- 📫 How to reach me : anr-nash@outlook.fr
+- 😄 Pronouns: Ahadi nachibingu Maps
+- ⚡ Fun fact: Video game
 
 <!---
 RonsardNash/RonsardNash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
